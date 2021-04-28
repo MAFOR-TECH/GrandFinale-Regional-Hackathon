@@ -1,0 +1,9 @@
+Seed phrase: "fresh pig joy lonely betray absent clay report artefact amazing lumber body"
+Raw address: 0:4c0f6a01e03a8119dbb9d6f7a8f2db0687b74c6fea6ba02da7e054dd198b1c5f
+testnet:
+Non-bounceable address (for init): 0QBMD2oB4DqBGdu51veo8tsGh7dMb-proC2n4FTdGYscX3Hl
+Bounceable address (for later access): kQBMD2oB4DqBGdu51veo8tsGh7dMb-proC2n4FTdGYscXywg
+mainnet:
+Non-bounceable address (for init): UQBMD2oB4DqBGdu51veo8tsGh7dMb-proC2n4FTdGYscX8pv
+Bounceable address (for later access): EQBMD2oB4DqBGdu51veo8tsGh7dMb-proC2n4FTdGYscX5eq
+Succeeded
